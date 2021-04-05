@@ -1,6 +1,6 @@
 # resort-website
 # 
-#### {Web development application used to test out branching.}, {05/04/2021}
+#### Web development application used to test out branching., 05/04/2021
 #### By **Meechar**
 ## Description
 This is a webpage used to perform tests on branching. I have created two different basic versions of the webpage testing out different aspects of CSS and gitHub manipulation along the way.
