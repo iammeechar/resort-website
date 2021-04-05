@@ -5,19 +5,21 @@
 
 body
 {
-    background-image: url("/home/meechar/meechar/moringa-school-projects/Resort-Website/images/hotel2.webp");
+    background-image: url("/home/meechar/meechar/moringa-school-projects/Resort-Website/images/entrance.jpg");
+    background-size: cover;
 
 }
 
+h1
+{
+    color: lawngreen;
+}
 p
 {
-    color: black;
+    color:chocolate;
 
 }
-.contact
-{
-    color: chocolate;
-}
+
 
 div
     {
@@ -25,7 +27,10 @@ div
     height: auto;
     text-align: center;
     padding: 15px;
-    }    
+    }    .contact
+    {
+        color: chocolate;
+    }
     
  img
 {
